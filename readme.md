@@ -4,6 +4,8 @@
 ### 機器人事前工作
 
 如果你還沒有創建bot，先到[Discord Developer](https://discordapp.com/developers/)創建,
+
+
 ![Left panel](https://i.imgur.com/hECJYWK.png)
 
 複製bot的token
